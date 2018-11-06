@@ -1,0 +1,33 @@
+.body {
+	background-image: url(https://preview.ibb.co/mJRQAf/daylight-grass-lake-1461035.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.header_menu {
+	padding: 20px;
+	background: rgba(0, 0, 0, 0.7);
+	border-radius: 20px;
+	margin-left: 25px;
+	margin-right: 25px;
+	display: inline;
+}
+
+.logo {
+	font-family: Helvetica;
+	font-weight: 700;
+	font-size: 35px;
+	float: left;
+}
+
+.menu_list {
+	float: right;
+	list-style: none;
+	display: flex;
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica;
+	font-weight: 700;
+}
